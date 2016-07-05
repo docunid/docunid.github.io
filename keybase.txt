@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/docunid
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://docunid.github.io
+  * I am docunid (https://keybase.io/docunid) on keybase.
+  * I have a public key with fingerprint CF8A E2B1 FB19 5431 8D6F  6AB2 60C5 4022 DE92 285D
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010148184508412b95242ca5a6dd3f00cc4a09ab0f4687c498c601c92218736337040a",
+            "fingerprint": "cf8ae2b1fb1954318d6f6ab260c54022de92285d",
+            "host": "keybase.io",
+            "key_id": "60c54022de92285d",
+            "kid": "010148184508412b95242ca5a6dd3f00cc4a09ab0f4687c498c601c92218736337040a",
+            "uid": "80c541c25d6364947d78a5d377ab5319",
+            "username": "docunid"
+        },
+        "service": {
+            "hostname": "docunid.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1467756943,
+    "expire_in": 157680000,
+    "prev": "774485558caff680b1f2b0d5c162b9f181af4370dc7a9998c68abc8a6f77e3bb",
+    "seqno": 17,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.53
+Comment: https://keybase.io/crypto
+
+yMIhAnicrVJdSFRBFF77kwQxCqPWB+tSEGh2596ZO3N3o0BSe7DIjAwJtrkzc/Vm
+7V13727Zug8llWDW1kM9tApFEf0Q2fYDBWk/kBFbIfTzGhVED6lQiC/RXKuHoMfm
+ZZhzvu8753xznpTODpQUlXW2jr164A4VPX+YSwZausGJtGK5vEsJpZUOMXOJPVwk
+vEiHw5WQogIVQAIIRCqBQLNMpEGNUUQNznVbVRmDVDWppdrQIJhBkzBDBczUNECw
+bug6VqFKlWrFdqJtIh6LO1FPyjKbUKFZwLaAiaAOCDdsg1qaoTIEVU3jQioQxCWx
+3U34DNmcRROixnFlTD4iM+39A/+f+07OyBG/DmAa4oZuQBNijglFXMeYWkgHpg9M
+iHiU7hUSzV2WjEpeplqRwZTDhO+rP8jfgJo2x2tPWr9misVdz2XuHplu97xYIuTT
+va6Yj98nrMhvpYjlRLn0UjJSIp5w3KgSAhLJPMeXBtDAGBkm1KsVsT/mxEXE8REI
+G0SVx68jUlISYwgJQogwatsyJ/9Cs1SOGDCkWzYggNpQusAZpqbp20OoxQg1bIyF
+blmKP1tn1JXaWPZJ26RmwmmLUi8ZF0rm0cjOOYGiksC8ubP8JQuUzF/wZ/V6B4p/
+qOe9k/mBsqCdLq0IF29ubTr4bBA1dg0XDn9FI3wlfcF7btze0McLW+8Vsi8PTLAW
+59M3xMPn3mfpaKZ737WKDQuPPb72pXVZId1zorK5dLw9p91s2rolv2uAuPcbCnfq
+Z02Ovh48Utpct3zJ0anGOU3NobeDRwqN6vLhp4uD+GJVeGy6Jbho94WG2unMlfza
+nlt7Tx8aLs7VjdfvMN5fZ/O2uR+37xr+vvrSpHHWnWpUKvLlhf5VQzuzNX3lUzfo
+nfW9J4NrznQdvbytFoS3dEyt2LT6s1K1o/zd0L3+pZlw8N3DkWTuKmnpLUq92Xjz
+Q2X2+KmcvaZ8XdXdia/4J3/OOOU=
+=7d72
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/docunid
+
+==================================================================
