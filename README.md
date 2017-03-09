@@ -12,4 +12,4 @@ Generated with Jekyll (markdown > html)
 
 `_config.yml` holds configuration  
 
-You can also add an index.html but that will surpass jekyll.
+You can also add an index.html but that will surpass Jekyll.
