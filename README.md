@@ -1,4 +1,4 @@
-# User Pages for Doc Unid
+# GitHub User Pages for Doc Unid
 
 Served only from `master`
 
