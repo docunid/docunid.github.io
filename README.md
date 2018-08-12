@@ -1,4 +1,4 @@
-# My User Pages site
+# User Pages for Doc
 
 Served only from `master`
 
