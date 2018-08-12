@@ -1,6 +1,6 @@
 # GitHub User Pages for Doc Unid
 
-Served only from `master`
+Served only from branch `master`
 
 GitHub Pages created after June 15, 2016 and using github.io domains are served over HTTPS. 
 
@@ -16,8 +16,12 @@ You can also add an index.html but that will surpass Jekyll.
 
 # GitHub Organization Pages for Eximple
 
-https://eximple.github.io/
+Served only from branch `master`
+
+[https://eximple.github.io/](https://eximple.github.io/)
 
 # GitHub Project Pages for Projector
 
-https://eximple.github.io/projector
+Served from branch `gh-pages`
+
+[https://eximple.github.io/projector](https://eximple.github.io/projector)
