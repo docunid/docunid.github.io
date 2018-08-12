@@ -13,3 +13,11 @@ Generated with Jekyll (markdown > html)
 `_config.yml` holds configuration  
 
 You can also add an index.html but that will surpass Jekyll.
+
+# GitHub Organization Pages for Eximple
+
+https://eximple.github.io/
+
+# GitHub Project Pages for Projector
+
+https://eximple.github.io/projector
